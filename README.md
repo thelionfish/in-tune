@@ -5,7 +5,7 @@ A music-reading drill: name notes on a grand staff (one at a time or as 3-note l
 **Play it:** https://thelionfish.github.io/in-tune/
 
 ## Playtesting
-- Works in a desktop or mobile browser. Chrome/Edge are needed for a MIDI keyboard; allow the microphone for voice mode.
+- Works in a desktop or mobile browser. MIDI keyboards work in Chrome, Edge, Brave and Firefox (Safari doesn't support MIDI); allow the microphone for voice mode.
 - Settings live under **Options** at the top of the drill.
 - Progress and stats are saved in your browser only.
 
